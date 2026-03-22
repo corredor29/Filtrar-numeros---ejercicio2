@@ -1,0 +1,14 @@
+D:\DetectarNumeros\bin\Debug\net10.0\DetectarNumeros.exe
+D:\DetectarNumeros\bin\Debug\net10.0\DetectarNumeros.deps.json
+D:\DetectarNumeros\bin\Debug\net10.0\DetectarNumeros.runtimeconfig.json
+D:\DetectarNumeros\bin\Debug\net10.0\DetectarNumeros.dll
+D:\DetectarNumeros\bin\Debug\net10.0\DetectarNumeros.pdb
+D:\DetectarNumeros\obj\Debug\net10.0\DetectarNumeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\DetectarNumeros\obj\Debug\net10.0\DetectarNumeros.AssemblyInfoInputs.cache
+D:\DetectarNumeros\obj\Debug\net10.0\DetectarNumeros.AssemblyInfo.cs
+D:\DetectarNumeros\obj\Debug\net10.0\DetectarNumeros.csproj.CoreCompileInputs.cache
+D:\DetectarNumeros\obj\Debug\net10.0\DetectarNumeros.dll
+D:\DetectarNumeros\obj\Debug\net10.0\refint\DetectarNumeros.dll
+D:\DetectarNumeros\obj\Debug\net10.0\DetectarNumeros.pdb
+D:\DetectarNumeros\obj\Debug\net10.0\DetectarNumeros.genruntimeconfig.cache
+D:\DetectarNumeros\obj\Debug\net10.0\ref\DetectarNumeros.dll

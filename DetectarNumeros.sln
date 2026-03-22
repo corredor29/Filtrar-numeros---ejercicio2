@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectarNumeros", "DetectarNumeros.csproj", "{7411D3A8-EEF3-AE15-6391-91A249FF45C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7411D3A8-EEF3-AE15-6391-91A249FF45C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7411D3A8-EEF3-AE15-6391-91A249FF45C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7411D3A8-EEF3-AE15-6391-91A249FF45C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7411D3A8-EEF3-AE15-6391-91A249FF45C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F0E16C-E917-4998-9DFF-72D42CE43972}
+	EndGlobalSection
+EndGlobal
